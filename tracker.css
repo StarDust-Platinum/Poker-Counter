@@ -1,0 +1,36 @@
+div.card {
+    height: 120px;
+    width: 80px;
+    margin: 5px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    display: inline-block;
+    vertical-align:top; 
+    text-align: center;
+    background-color: white;
+}
+
+img {
+    width: 60px;
+    height: 60px;
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    display: inline;
+}
+
+#redjoker p, #blackjoker p {
+    font-size: x-large;
+}
+
+.heart p, .diamond p, #redjoker p {
+    color: #BB0000;
+}
