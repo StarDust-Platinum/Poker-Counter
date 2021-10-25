@@ -1,2 +1,2 @@
 # poker
-# A simple tool to count cards in poker games.
+A html-based tool to count cards in poker games.
